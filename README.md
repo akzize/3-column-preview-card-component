@@ -32,8 +32,8 @@ This one for the button Hover
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/zakariae111/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://zakariae111.github.io/3-column-preview-card-component/)
+- Solution URL: [Here](https://github.com/zakariae111/3-column-preview-card-component)
+- Live Site URL: [Here](https://zakariae111.github.io/3-column-preview-card-component/)
 
 ## My process
 
