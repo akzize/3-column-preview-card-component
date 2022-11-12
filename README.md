@@ -1,5 +1,3 @@
-# 3-column-preview-card-component
-
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
@@ -13,20 +11,11 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
 
 ### Screenshot
 
@@ -35,7 +24,8 @@ Users should be able to:
 
 This one for the button Hover
 
-![](./Screen_desktop.png)
+
+![](./Screen_deskto_hover.png)
 
 
 
@@ -55,43 +45,22 @@ This one for the button Hover
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Actualy i learn a lot from doing this project:
+  -I got more information about resposive web : when and how to use max/min width , when to use absolute or relative units
+  
+  That's for this project 
+  
+  hope we will learn more by doing other projects
+  the more **practice** you do the more **information** you got
+  
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me in resposive design, i love the way they use grid view to change the components position according to the device width. I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/zakariae111)
+- Frontend Mentor - [@zakaria](https://www.frontendmentor.io/profile/zakariae111)
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
