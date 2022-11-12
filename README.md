@@ -25,7 +25,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 This one for the button Hover
 
 
-![](./Screen_deskto_hover.png)
+![](./screenshot_deskto_hover.png)
 
 
 
